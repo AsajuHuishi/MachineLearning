@@ -1,4 +1,6 @@
 机器学习算法与应用第二次作业
+地址：https://github.com/AsajuHuishi/MachineLearning_hw2
+第一次作业见
 降维：PCA KPCA LDA KLDA 
 聚类：FCM 
 分类：LN SVM ANN  
