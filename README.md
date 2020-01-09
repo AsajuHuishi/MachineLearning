@@ -3,6 +3,6 @@
 第一次作业https://github.com/AsajuHuishi/MachineLearning_hw1
 降维：PCA KPCA LDA KLDA 
 聚类：FCM 
-分类：LN SVM ANN  
+分类：LogisticRegression SVM ANN  
 Copyright Zeng Xinyang,TJU
 2020/1/8
